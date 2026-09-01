@@ -1,3 +1,3 @@
 <%
-response.sendRedirect("products.jsp");
+response.sendRedirect("login.jsp");
 %>
